@@ -27,3 +27,5 @@ Auth::routes();
 Route::get('/home', 'HomeController@index')->name('home');
 
 Route::get('/index', 'HomeController@index');
+
+//tset1
